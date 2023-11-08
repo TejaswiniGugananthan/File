@@ -1,8 +1,26 @@
 # File
 
 ## Aim:
+To write a C# program to store the student details in file using structure concept.
 
 ## Algorithm:
+# Step 1:
+Create a file using FileStream.
+
+# Step 2:
+Create a structure for student details.
+
+# Step 3:
+Get the number of students and their details from user.
+
+# Step 4:
+Define a function to write the details of student into the created file.
+
+# Step 5:
+Pass the details of student to the function.
+
+# Step 6:
+File has been created and written with student details.
 
 ## Program:
 Name:G.TEJASWINI
@@ -62,3 +80,4 @@ class HelloWorld
 ![Screenshot (55)](https://github.com/TejaswiniGugananthan/File/assets/121222763/e8354428-f735-4fb4-8418-fa8da42d0b98)
 
 ## Result:
+Thus a C# program to store the student details in file using structure concept is implemented successfully.
